@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name            Descarga de HA
-// @version         1
+// @version         1.1
 // @author          Juan Ignacio Veron Desimoni
 // @include         *.ha.*
+// @exclude         https://www.ha.com/
 // @downloadURL https://github.com/UpdateMaker/Descarga-de-HA/raw/master/src/Userscript/App.user.js
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @grant GM_download
