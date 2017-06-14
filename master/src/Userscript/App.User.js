@@ -3,7 +3,7 @@
 // @version         1
 // @author          Juan Ignacio Veron Desimoni
 // @include         *.ha.*
-// @downloadURL https://github.com/UpdateMaker/Descarga-de-HA/raw/master/master/src/Userscript/App.User.js
+// @downloadURL https://github.com/UpdateMaker/Descarga-de-HA/raw/master/src/Userscript/App.User.js
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @grant GM_download
 // ==/UserScript==]
